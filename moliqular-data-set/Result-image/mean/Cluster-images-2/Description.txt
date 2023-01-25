@@ -1,0 +1,3 @@
+Euclidean distance, Outlier, Other cluster
+[(133.64354192250678, 8, 4)]
+
